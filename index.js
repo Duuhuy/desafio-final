@@ -36,7 +36,3 @@ let = type = "mago"
 let exibeMsg = new hero(name, age, type)
 
 exibeMsg.atack()
-
-
-
-
